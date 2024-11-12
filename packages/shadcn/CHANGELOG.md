@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 2.1.7
+
+### Patch Changes
+
+- [#5678](https://github.com/shadcn-ui/ui/pull/5678) [`fb36ca4`](https://github.com/shadcn-ui/ui/commit/fb36ca41591ae952f3a015e2a4470f26458cf1b5) Thanks [@Tobbe](https://github.com/Tobbe)! - support aliases longer than one char
+
 ## 2.1.6
 
 ### Patch Changes
